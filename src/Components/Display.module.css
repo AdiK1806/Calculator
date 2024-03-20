@@ -1,0 +1,8 @@
+.display{
+    margin: 10px;
+    width: 175px;
+    font-size: 25px;
+    background-color:aliceblue;
+    text-align: right;
+    border-radius: 5px
+  }

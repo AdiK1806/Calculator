@@ -1,0 +1,16 @@
+*{
+  background-color:burlywood;
+}
+.calculator{
+  border: 1px solid black;
+  width: 200px;
+  border-radius: 5px;
+  margin: 10px 40%;
+  background-color: black;
+}
+h1{
+  margin: 10px 43%;
+  color:black;
+  font-weight: 600;
+}
+
